@@ -12,7 +12,7 @@
 
 -----
 
-### 02. TO-DO LIST 구현 하기
+### 프로젝트02. TO-DO LIST 구현 하기
 - **사용 기술스택**
   - **HTML, CSS Layout, Web font, responsive UI (without external framework such as Bootstrap)**
   - **Javascript : XMLHTTPRequest, Ajax, DOM API**
