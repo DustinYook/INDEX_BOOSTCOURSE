@@ -1,8 +1,10 @@
 # Project_BoostCourse
 **부스트코스 규정에 의해 소스코드는 공개하지 않습니다.**
 
-### 01. 나를 소개하는 홈페이지 만들기
-- 사용 기술스택: HTML, CSS Layout, Servlet
+### 프로젝트01. 나를 소개하는 홈페이지 만들기
+- **사용 기술스택**
+  - **HTML, CSS Layout (without external framework such as Bootstrap)**
+  - **Servlet**
 
 ![aboutme](https://github.com/DustinYook/Project_BoostCourse/blob/master/image/project01.gif)
 
@@ -11,10 +13,10 @@
 -----
 
 ### 02. TO-DO LIST 구현 하기
-- 사용 기술스택
-  - HTML, CSS Layout
-  - Javascript : XMLHTTPRequest, Ajax, DOM API
-  - JSP & Servlet : redirect, forward, JSTL, EL, response(JSON)
-  - MySQL, JDBC, Maven
+- **사용 기술스택**
+  - **HTML, CSS Layout (without external framework such as Bootstrap)**
+  - **Javascript : XMLHTTPRequest, Ajax, DOM API**
+  - **JSP & Servlet : redirect, forward, JSTL, EL, Response by using JSON**
+  - **MySQL, JDBC, Maven**
   
 ![todo](https://github.com/DustinYook/Project_BoostCourse/blob/master/image/project02.gif)
