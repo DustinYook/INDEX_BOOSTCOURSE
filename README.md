@@ -3,7 +3,7 @@
 
 ### [프로젝트01. 나를 소개하는 홈페이지 만들기](https://www.edwith.org/boostcourse-web/project/4/content/3#summary)
 - **사용 기술스택**
-  - **HTML, CSS Layout (without external framework such as Bootstrap)**
+  - **HTML, CSS Layout (without using Bootstrap)**
   - **Servlet**
 
 ![aboutme](https://github.com/DustinYook/Project_BoostCourse/blob/master/image/project01.gif)
@@ -14,7 +14,7 @@
 
 ### [프로젝트02. TO-DO LIST 구현 하기](https://www.edwith.org/boostcourse-web/project/7/content/6#summary)
 - **사용 기술스택**
-  - **HTML, CSS Layout, Web font, responsive UI (without external framework such as Bootstrap)**
+  - **HTML, CSS Layout, Web font (without using Bootstrap)**
   - **Javascript : XMLHTTPRequest, Ajax, DOM API**
   - **JSP & Servlet : scope, redirect, forward, JSTL, EL, Response by using JSON**
   - **MySQL, JDBC, Maven**
