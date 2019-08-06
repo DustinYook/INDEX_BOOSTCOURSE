@@ -14,9 +14,9 @@
 
 ### 02. TO-DO LIST 구현 하기
 - **사용 기술스택**
-  - **HTML, CSS Layout (without external framework such as Bootstrap)**
+  - **HTML, CSS Layout, Web font, responsive UI (without external framework such as Bootstrap)**
   - **Javascript : XMLHTTPRequest, Ajax, DOM API**
-  - **JSP & Servlet : redirect, forward, JSTL, EL, Response by using JSON**
+  - **JSP & Servlet : scope, redirect, forward, JSTL, EL, Response by using JSON**
   - **MySQL, JDBC, Maven**
   
 ![todo](https://github.com/DustinYook/Project_BoostCourse/blob/master/image/project02.gif)
