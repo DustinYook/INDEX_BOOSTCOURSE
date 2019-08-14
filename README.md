@@ -8,8 +8,6 @@
 
 ![aboutme](https://github.com/DustinYook/Project_BoostCourse/blob/master/image/project01.gif)
 
-![review01](https://github.com/DustinYook/Project_BoostCourse/blob/master/review/review01.PNG)
-
 -----
 
 ### [프로젝트02. TO-DO LIST 구현 하기](https://www.edwith.org/boostcourse-web/project/7/content/6#summary)
